@@ -1,0 +1,15 @@
+.nav-link-hover:hover{
+    background-color: white !important;
+    color: black !important;
+  }
+  .btn-sign-in:hover{
+    background-color: rgba(250, 235, 215, 0.205) !important;
+  }
+  .btn-register:hover{
+    background-color: rgb(19, 95, 19) !important;
+  }
+  .btn-log-out:hover{
+    background-color: rgba(255, 0, 0, 0.719) !important;
+  }
+
+ 
