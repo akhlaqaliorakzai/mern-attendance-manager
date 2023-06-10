@@ -1,6 +1,11 @@
 # Getting Started with Create React App
 
-## Run Project:
+## Run Project: 
+### Frontend : Open terminal and go to root directory which is "mern-attendance-manager", then type in terminal "npm install" and after that type "npm start" 
+
+### Backend: Open another terminal and go to root directory which is "mern-attendance-manager", then type in terminal "cd backend" and then type "npm install" and then type "nodemon index.jx" 
+
+### You must have MongoDBCompass Installed!
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
